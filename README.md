@@ -26,7 +26,7 @@ Para realizar a transformação de dados criou-se uma função pura em NodeJs qu
 
 ### 3. Carregamento (Load)
 
-Com ambos os streams prontos, criou-se uma outra função pura em NodeJs que recebe ambos os streams, salva em localidades conhecidas para veículos e para geolocalizações e dispara uma etapa do cluster do EMR\cite{EMR}, que utiliza-se do hadoop e um script Hive para reorganizar os dados em tabelas particionadas.
+Com ambos os streams prontos, criou-se uma outra função pura em NodeJs que recebe ambos os streams, salva em localidades conhecidas para veículos e para geolocalizações e dispara uma etapa do cluster do EMR, que utiliza-se do Hadoop e um script Hive para reorganizar os dados em tabelas particionadas.
 
 ### 4. IoT
 
