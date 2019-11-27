@@ -12,7 +12,7 @@ A especificação da arquitetura do projeto foi feita com base no princípio dos
   <img src="architecture.png" alt="Arquitetura" width="500px"/>
 </p>
 
-## Implementação
+## Implementação e Resultados
 
 A implementação do projeto foi dividida em cinco etapas, sendo três etapas associadas ao processo ETL (Extract Transform Load), uma etapa relacionada à adequação das câmeras LPR ao processo ETL, o que consistiu na implementação da componente de IoT, e a última etapa responsável pela construção de uma API responsável por disponibilizar os dados estruturados para o cliente final.
 
